@@ -9,6 +9,8 @@ Google PolyGen paper - https://arxiv.org/pdf/2002.10880.pdf \
 Google PolyGen repo - https://github.com/deepmind/deepmind-research/tree/master/polygen \
 PolyGen explanation - https://towardsdatascience.com/generating-3d-models-with-polygen-and-pytorch-4895f3f61a2e \
 
+Advanced Machine Learning with Python - https://raw.githubusercontent.com/chandanverma07/Ebooks/master/Advanced%20Machine%20Learning%20with%20Python.pdf \
+
 ## Notes
 
 ### Tensorflow
